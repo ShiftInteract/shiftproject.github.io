@@ -1,6 +1,7 @@
 body {
     background-image: url("/testimg.jpg");
     font-family: sans-serif;
+    overflow: scroll;
 }
 
 h1 {
@@ -22,7 +23,6 @@ h3 {
 }
 
 .bodybox {
- color:darkturquoise;
  position: fixed;
  z-index: 1;
 }
