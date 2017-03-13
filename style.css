@@ -10,4 +10,6 @@ h1 {
     font-style:italic;
     border-style: double;
     border-color: burlywood;
+    padding: 10px;
+    box-sizing: content-box
 }
