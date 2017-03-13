@@ -1,3 +1,13 @@
 body {
     background-image: url("/testimg.jpg")
 }
+
+h1 {
+ text-align: center   
+}
+
+.para {
+    font-style:italic;
+    border-style: double;
+    border-color: burlywood;
+}
