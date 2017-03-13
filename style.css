@@ -4,7 +4,7 @@ body {
 }
 
 h1 {
- text-align: center   
+ text-align: center;   
 }
 
 h3 {
@@ -19,4 +19,14 @@ h3 {
 
 .navbar {
     display:inline;
+}
+
+.bodybox {
+ color:darkturquoise;
+ position: fixed;
+ z-index: 1;
+}
+
+p {
+    z-index:2;
 }
