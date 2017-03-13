@@ -8,8 +8,10 @@ h1 {
 
 .para {
     font-style:italic;
-    border-style: double;
-    border-color: burlywood;
     padding: 10px;
     box-sizing: content-box
+}
+
+.navbar {
+    display:inline;
 }
