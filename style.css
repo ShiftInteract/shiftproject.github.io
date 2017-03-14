@@ -48,7 +48,7 @@ li {
 }
 
 .hovered {
-    background-color: #DCDCDC;
-    color:#DCDCDC;
+    background-color: gainsboro;
+    color:#FF0000;
     z-index: 15;
 }
