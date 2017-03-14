@@ -1,0 +1,54 @@
+* {
+ background-repeat: repeat; 
+ background-position: fixed;
+}
+body {
+    background: url("/testimg.jpg") top center repeat-y fixed;
+    height: 100%;
+    font-family: sans-serif;
+}
+
+h1 {
+ text-align: center;   
+}
+
+h3 {
+ color: coral;   
+}
+
+.para {
+    font-style:italic;
+    margin: 40px;
+    box-sizing: content-box
+}
+
+.navbar {
+    display:inline;
+}
+
+.bodybox {
+ display: block;
+ z-index: 1;
+ background-color: #00CED1;
+ margin: 65px;
+ padding: 12.5px;
+ border-style: inset;
+ border-width: 3px;
+ border-color: #1E90FF;
+}
+
+p {
+    z-index:2;
+}
+
+li {
+ display: inline-block;
+ font-family: Gill Sans, sans-serif;
+ margin: 15px
+}
+
+.hovered {
+    background-color: #DCDCDC;
+    color:#DCDCDC;
+    z-index: 15;
+}
