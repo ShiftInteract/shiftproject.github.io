@@ -1,9 +1,9 @@
 * {
  background-repeat: repeat; 
- overflow: visible;
 }
 body {
-    background-image: url("/testimg.jpg");
+    background: url("/testimg.jpg") top center repeat-y fixed;
+    height: 100%;
     font-family: sans-serif;
 }
 
