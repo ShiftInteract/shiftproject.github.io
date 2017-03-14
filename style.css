@@ -45,12 +45,13 @@ li {
  display: inline-block;
  font-family: Gill Sans, sans-serif;
  margin: 15px;
- border-width: 2px;
- border-color: black;
+ transition: background-color 0.15s ease;
 }
 
-.hovered {
+li:hover {
     background-color: #DCDCDC;
-    color:#DCDCDC;
-    z-index: 15;
 }
+
+/* .hovered {
+    background-color: #DCDCDC;
+} */
