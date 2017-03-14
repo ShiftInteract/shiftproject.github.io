@@ -1,10 +1,10 @@
 * {
- background-repeat: repeat;   
+ background-repeat: repeat; 
+ overflow: visible;
 }
 body {
     background-image: url("/testimg.jpg");
     font-family: sans-serif;
-    overflow: scroll;
 }
 
 h1 {
