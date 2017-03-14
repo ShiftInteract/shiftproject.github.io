@@ -46,3 +46,9 @@ li {
  font-family: Gill Sans, sans-serif;
  margin: 15px
 }
+
+.hovered {
+    background-color: #DCDCDC;
+    color:#DCDCDC;
+    z-index: 15;
+}
