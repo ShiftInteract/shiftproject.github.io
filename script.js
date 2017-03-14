@@ -1,5 +1,5 @@
 $(document).ready(function() {
-   $('li').hover(function() {
+   $('ul').hover(function() {
       $(this).addClass("hovered");
 },
 function() {
