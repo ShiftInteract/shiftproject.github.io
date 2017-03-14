@@ -1,5 +1,6 @@
 * {
  background-repeat: repeat; 
+ background-position: fixed;
 }
 body {
     background: url("/testimg.jpg") top center repeat-y fixed;
@@ -26,7 +27,6 @@ h3 {
 }
 
 .bodybox {
- position: fixed;
  display: block;
  z-index: 1;
 }
