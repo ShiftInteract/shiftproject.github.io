@@ -30,6 +30,11 @@ h3 {
  display: block;
  z-index: 1;
  background-color: #00CED1;
+ margin: 65px;
+ padding: 12.5px;
+ border-style: inset;
+ border-width: 3px;
+ border-color: #1E90FF;
 }
 
 p {
