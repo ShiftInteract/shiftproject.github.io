@@ -29,6 +29,7 @@ h3 {
 .bodybox {
  display: block;
  z-index: 1;
+ background-color: #00CED1;
 }
 
 p {
