@@ -52,6 +52,23 @@ li:hover {
     background-color: #696969;
 }
 
-/* .hovered {
-    background-color: #DCDCDC;
-} */
+a:link
+{
+   color: #dddddd;
+   text-decoration: none;
+}
+a:visited
+{
+   color: #dddddd;
+   text-decoration: none;
+}
+a:hover
+{
+   color: #dddddd;
+   text-decoration: none;
+}
+a:active
+{
+   color: #dddddd;
+   text-decoration: none;
+}
