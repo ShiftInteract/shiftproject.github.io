@@ -2,7 +2,11 @@
  background-position: fixed;
 }
 body {
-    background: url("/testimg.jpg") top center repeat-y fixed;
+    background-color: black;
+    background-image: -webkit-linear-gradient(top, #000000, #00ced1); 
+    background-image:    -moz-linear-gradient(top, #000000, #00ced1); 
+    background-image:      -o-linear-gradient(top, #000000, #00ced1);
+    background-image:         linear-gradient(to bottom, #000000, #00ced1);
     height: 100%;
     font-family: sans-serif;
 }
