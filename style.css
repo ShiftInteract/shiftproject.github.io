@@ -73,3 +73,14 @@ a:active
    color: #dddddd;
    text-decoration: none;
 }
+
+.linkbox {
+margin: 5px 50px;
+display: block;
+border-style: outset;
+border-width: thick;
+padding: 15px;
+background-color: white;
+width: 250px;
+height: 250px;
+}
