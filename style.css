@@ -3,7 +3,7 @@
 }
 
 body {
-    background-image: linear-gradient(0deg, #000000, #00bab6 30%, #00ced1);
+    background-color: white;
     height: 750px;
     font-family: sans-serif;
 }
