@@ -3,7 +3,7 @@
 }
 
 body {
-    background-color: white;
+    background-color: #c0c0c0;
     height: 750px;
     font-family: sans-serif;
 }
@@ -85,6 +85,18 @@ width: 250px;
 height: 250px;
 }
 
+<<<<<<< Updated upstream
 .logo img{
 margin= -500px -600px;
 }
+=======
+<<<<<<< HEAD
+/*.logo {
+position
+}*/
+=======
+.logo img{
+margin= -500px -600px;
+}
+>>>>>>> origin/master
+>>>>>>> Stashed changes
