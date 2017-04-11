@@ -2,10 +2,12 @@
  background-position: fixed;
 }
 
+@import url('https://fonts.googleapis.com/css?family=Ek+Mukta');
+
 body {
     background-color: #c0c0c0;
     height: 750px;
-    font-family: sans-serif;
+    font-family: 'Ek Mukta', sans-serif;
 }
 
 h1 {
