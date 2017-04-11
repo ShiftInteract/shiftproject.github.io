@@ -2,13 +2,9 @@
  background-position: fixed;
 }
 
-@import url('https://fonts.googleapis.com/css?family=Ek+Mukta');
-@import url('https://fonts.googleapis.com/css?family=Lato');
-
 body {
     background-color: #c0c0c0;
     height: 750px;
-    font-family: 'Ek Mukta', sans-serif;
 }
 
 h1 {
@@ -44,6 +40,7 @@ h3 {
  border-style: inset;
  border-width: 3px;
  border-color: #1E90FF;
+ font-family: 'Ek Mukta', sans-serif;
 }
 
 p {
