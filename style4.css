@@ -1,18 +1,26 @@
 * {
  background-position: fixed;
 }
+
 body {
-    background-color: white;
-    height: 750px;
-    font-family: sans-serif;
+    background-image: linear-gradient(180deg, #0678C0, #0678C0 85%, #c0c0c0);
+    height: auto;
 }
 
 h1 {
- text-align: center;   
+ text-align: center;
+ font-family: 'Lato'; sans-serif; 
+}
+
+h2 {
+ font-family: 'Lato', sans-serif;
 }
 
 h3 {
- color: pink;   
+ text-align: center;
+ text-transform: uppercase;
+ color: 
+ font-family: 'Lato', sans-serif;   
 }
 
 .para {
@@ -34,10 +42,16 @@ h3 {
  border-style: inset;
  border-width: 3px;
  border-color: #1E90FF;
+ font-family: 'Ek Mukta', sans-serif;
 }
 
 p {
     z-index:2;
+}
+
+.bottomtext {
+ text-align: right;
+ font-family: 'Ek Mukta', sans-serif;
 }
 
 li {
@@ -72,3 +86,17 @@ a:active
    color: #dddddd;
    text-decoration: none;
 }
+
+.linkbox {
+margin: 5px 50px;
+display: inline-block;
+border-style: outset;
+border-width: thick;
+padding: 15px;
+background-color: white;
+width: 250px;
+height: 250px;
+}
+
+
+
