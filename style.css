@@ -37,6 +37,8 @@ h3 {
     width: auto;
     height: 80px;
     position: fixed;
+    color: black;
+    filter: opacity(70%);
 }
 
 .bodybox {
