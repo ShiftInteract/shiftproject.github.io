@@ -3,8 +3,8 @@
 }
 
 body {
-    background-image: linear-gradient(0deg, #0678C0, #0678C0 85%, #c0c0c0);
-    height: 750px;
+    background-image: linear-gradient(180deg, #0678C0, #0678C0 85%, #c0c0c0);
+    height: auto;
 }
 
 h1 {
@@ -47,6 +47,11 @@ h3 {
 
 p {
     z-index:2;
+}
+
+.bottomtext {
+ text-align: right:
+ font-family: 'Ek Mukta', sans-serif;
 }
 
 li {
