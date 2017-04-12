@@ -2,8 +2,11 @@
  background-position: fixed;
 }
 
+html {
+background-image: linear-gradient(180deg, #0678C0, #0678C0 85%, #c0c0c0);
+}
+
 body {
-    background-image: linear-gradient(180deg, #0678C0, #0678C0 85%, #c0c0c0);
     height: auto;
 }
 
