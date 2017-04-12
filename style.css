@@ -55,6 +55,7 @@ p {
 .bottomtext {
  text-align: right;
  font-family: 'Ek Mukta', sans-serif;
+ margin: 17px;
 }
 
 li {
