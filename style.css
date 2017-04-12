@@ -39,7 +39,7 @@ h3 {
 .bodybox {
  display: block;
  z-index: 1;
- background-color: #E6E6FA;
+ background-color: #DCDCDC;
  margin: 65px;
  padding: 12.5px;
  border-style: inset;
@@ -97,7 +97,7 @@ a:active
 
 .linkbox {
 margin: 10px 50px;
-display: inline;
+display: inline-block;
 border-style: outset;
 border-width: thick;
 padding: 15px;
