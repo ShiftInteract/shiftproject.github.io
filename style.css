@@ -3,7 +3,7 @@
 }
 
 body {
-    background-color: #c0c0c0;
+    background-image: linear-gradient(0deg, #0678C0, #0678C0 85%, #c0c0c0);
     height: 750px;
 }
 
@@ -17,7 +17,9 @@ h2 {
 }
 
 h3 {
- color: pink;
+ text-align: center;
+ text-transform: uppercase;
+ color: 
  font-family: 'Lato', sans-serif;   
 }
 
