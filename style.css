@@ -62,11 +62,15 @@ li {
  font-family: Gill Sans, sans-serif;
  margin: 15px;
  padding: 15px
- transition: background-color 0.15s ease;
+ transition: background-color 0.25s ease;
+ transition: border-color 0.25s ease;
+ transition: border-width 0.25s ease;
 }
 
 li:hover {
     background-color: #696969;
+    border-width: 10px;
+    border-color: #696969;
 }
 
 a:link
