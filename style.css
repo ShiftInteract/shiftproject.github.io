@@ -39,7 +39,8 @@ h3 {
     height: 80px;
     position: fixed;
     background-color: black;
-    /* filter: opacity(70%); */
+    filter: opacity(70%);
+    margin-right: 8px;
 }
 
 .bodybox {
@@ -50,7 +51,7 @@ h3 {
  padding: 12.5px;
  border-style: inset;
  border-width: 3px;
- border-color: #1E90FF;
+ border-color: #696969;
  font-family: 'Ek Mukta', sans-serif;
 }
 
