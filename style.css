@@ -35,7 +35,7 @@ h3 {
 .navbar {
     display:inline;
     z-index: 200;
-    width: 100%;
+    width: auto;
     height: 80px;
     position: fixed;
     background-color: black;
