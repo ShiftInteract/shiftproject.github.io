@@ -3,7 +3,7 @@
 }
 
 html {
-background-image: linear-gradient(180deg, #0678C0, #0678C0 85%, #c0c0c0);
+background-image: linear-gradient(180deg, #c0c0c0, #0678C0 30%, #0678C0 85%, #c0c0c0);
 }
 
 body {
@@ -35,7 +35,7 @@ h3 {
 .navbar {
     display:inline;
     z-index: 200;
-    width: auto;
+    width: 98%;
     height: 80px;
     position: fixed;
     background-color: black;
