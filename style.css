@@ -82,49 +82,26 @@ li:hover {
     border-color: #696969;
 }
 
-.navbar > a:link
+a:link
 {
    color: #dddddd;
    text-decoration: none;
 }
-.navbar > a:visited
+a:visited
 {
    color: #dddddd;
    text-decoration: none;
 }
-.navbar > a:hover
+a:hover
 {
    color: #dddddd;
    text-decoration: none;
 }
-.navbar > a:active
+a:active
 {
    color: #dddddd;
    text-decoration: none;
 }
-
-body > a:link
-{
-   color: #dddddd;
-   text-decoration: underline;
-}
-body > a:visited
-{
-   color: #dddddd;
-   text-decoration: underline;
-}
-body > a:hover
-{
-   color: #dddddd;
-   text-decoration: underline;
-}
-body > a:active
-{
-   color: #dddddd;
-   text-decoration: underline;
-}
-
-
 
 .linkbox {
 margin: 10px 50px;
