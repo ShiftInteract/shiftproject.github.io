@@ -58,8 +58,12 @@ p {
  font-family: 'Ek Mukta', sans-serif;
 }
 
+ul {
+display: table;
+}
+
 li {
- display: inline-block;
+ display: table-cell;
  font-family: Gill Sans, sans-serif;
  margin: 15px;
  padding: 15px
