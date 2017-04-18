@@ -63,7 +63,7 @@ display: table;
 }
 
 li {
- display: table-cell;
+ display: inline-block;
  font-family: Gill Sans, sans-serif;
  margin: 15px;
  padding: 15px
