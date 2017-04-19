@@ -44,14 +44,17 @@ h3 {
     background-color: black;
     filter: opacity(70%);
     margin-right: 8px;
-    margin-top: -1.8cm;
+    margin-top: -1.6cm;
 }
 
 .bodybox {
  display: block;
  z-index: 20;
  background-color: #DCDCDC;
- margin: 65px;
+ margin-left: 65px;
+ margin-right: 65px;
+ margin-bottom: 65px;
+ margin-top: 87.5px;
  padding: 12.5px;
  border-style: inset;
  border-width: 3px;
@@ -70,7 +73,7 @@ p {
 }
 
 ul {
-margin-top: -2cm;
+margin-top: -1.6cm;
 margin-left: 3cm;
 } 
 
