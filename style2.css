@@ -44,7 +44,7 @@ h3 {
     background-color: black;
     filter: opacity(70%);
     margin-right: 8px;
-    margin-top: -2cm;
+    margin-top: -1.8cm;
 }
 
 .bodybox {
@@ -68,6 +68,11 @@ p {
  font-family: 'Ek Mukta', sans-serif;
  margin: 17px;
 }
+
+ul {
+margin-top: -2cm;
+margin-left: 3cm;
+} 
 
 li {
  display: inline-block;
