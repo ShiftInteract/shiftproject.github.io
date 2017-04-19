@@ -23,8 +23,7 @@ h2 {
 }
 
 h3 {
- text-align: center;
- text-transform: uppercase;
+ text-align: left;
  color: black;
  font-family: 'Lato', sans-serif;   
 }
@@ -44,7 +43,7 @@ h3 {
     background-color: black;
     filter: opacity(70%);
     margin-right: 8px;
-    margin-top: -1.6cm;
+    margin-top: -2cm;
 }
 
 .bodybox {
@@ -73,7 +72,7 @@ p {
 }
 
 ul {
-margin-top: -1.6cm;
+margin-top: -2.2cm;
 margin-left: 3cm;
 } 
 
@@ -117,9 +116,5 @@ a:active
 
 .person {
 text-align: left;
-}
-
-h3 {
-font-family: 'Lato', sans-serif;
 }
 
