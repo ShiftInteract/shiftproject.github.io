@@ -48,7 +48,7 @@ h3 {
 
 .bodybox {
  display: block;
- height: 1200px;
+ height: 1200px;	
  z-index: 20;
  background-color: #DCDCDC;
  margin-left: 65px;
@@ -121,3 +121,6 @@ display: block;
 clear: left;
 }
 
+.insta {
+margin-bottom: -17px;
+}
