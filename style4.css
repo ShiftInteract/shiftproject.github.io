@@ -45,12 +45,12 @@ h3 {
     background-color: black;
     filter: opacity(70%);
     margin-right: 8px;
-    margin-top: -1.2cm;
+    margin-top: -2.4cm;
 }
 
 ul {
-margin-left: 3cm;
-margin-top: -2.2cm;
+margin-left: 3.5cm;
+margin-top: -3.2cm;
 }
 
 .bodybox {
@@ -123,9 +123,3 @@ background-color: white;
 width: 250px;
 height: 250px;
 }
-
-.rlist {
-display=inline;
-font-family: 'Ek Mukta', sans-serif;
-}
-
