@@ -56,6 +56,7 @@ h3 {
  border-width: 3px;
  border-color: #696969;
  font-family: 'Ek Mukta', sans-serif;
+ min-width: 275px;
 }
 
 p {
