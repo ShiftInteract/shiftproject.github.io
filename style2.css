@@ -117,5 +117,6 @@ a:active
 .person {
 text-align: left;
 display: block;
+clear: left;
 }
 
