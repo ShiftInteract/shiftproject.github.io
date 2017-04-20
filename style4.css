@@ -13,9 +13,10 @@ body {
     position: relative;
 }
 
-h1 {
+.title {
  text-align: center;
- font-family: 'Lato'; sans-serif; 
+ font-family: 'Lato'; sans-serif;
+ margin-top: 55px; 
 }
 
 h2 {
@@ -44,7 +45,7 @@ h3 {
     background-color: black;
     filter: opacity(70%);
     margin-right: 8px;
-    margin-top: -1.7cm;
+    margin-top: -0.7cm;
 }
 
 .bodybox {
