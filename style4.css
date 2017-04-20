@@ -16,7 +16,7 @@ body {
 .title {
  text-align: center;
  font-family: 'Lato'; sans-serif;
- margin-top: 55px; 
+ margin-top: 100px; 
 }
 
 h2 {
@@ -46,6 +46,11 @@ h3 {
     filter: opacity(70%);
     margin-right: 8px;
     margin-top: -1.2cm;
+}
+
+ul {
+margin-left: 3cm;
+margin-top: -2.2cm;
 }
 
 .bodybox {
