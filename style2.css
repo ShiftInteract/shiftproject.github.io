@@ -48,7 +48,7 @@ h3 {
 
 .bodybox {
  display: block;
- height: auto;
+ height: 100%
  z-index: 20;
  background-color: #DCDCDC;
  margin-left: 65px;
