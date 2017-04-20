@@ -107,7 +107,7 @@ a:active
 }
 
 .linkbox {
-margin: 10px 50px;
+margin: 20px 50px;
 display: inline-block;
 border-style: outset;
 border-width: thick;
@@ -120,4 +120,8 @@ height: 250px;
 .logo {
 text-align: center;
 margin-top: 3cm;
+}
+
+.insta {
+margin-bottom: -17px;
 }
