@@ -74,17 +74,13 @@ li {
  display: inline-block;
  font-family: Gill Sans, sans-serif;
  margin: 15px;
- padding: 15px
- z-index: 202
+ padding: 15px;
+ z-index: 202;
  transition: background-color 0.25s ease;
- transition: border-color 0.25s ease;
- transition: border-width 0.25s ease;
 }
 
 li:hover {
     background-color: #696969;
-    border-width: 10px;
-    border-color: #696969;
 }
 
 a:link
@@ -111,11 +107,10 @@ a:active
 .linkbox {
 margin: 20px 50px;
 display: inline-block;
+border-color: #DCDCDC;
 border-style: outset;
 border-width: thick;
-padding-top: 70px;
-padding-left: 20px;
-padding-right: 20px;
+padding: 15px;
 background-color: white;
 width: 250px;
 height: 250px;
