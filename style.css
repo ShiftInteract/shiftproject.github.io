@@ -110,7 +110,7 @@ a:active
 
 .linkbox {
 margin: 20px 50px;
-display: block;
+display: inline;
 border-style: outset;
 border-width: thick;
 padding: 15px;
