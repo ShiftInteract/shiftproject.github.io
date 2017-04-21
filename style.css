@@ -110,10 +110,12 @@ a:active
 
 .linkbox {
 margin: 20px 50px;
-display: list-item block;
+display: inline-block;
 border-style: outset;
 border-width: thick;
-padding: 15px;
+padding-top: 70px;
+padding-left: 20px;
+padding-right: 20px;
 background-color: white;
 width: 250px;
 height: 250px;
