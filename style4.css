@@ -79,17 +79,13 @@ li {
  display: inline-block;
  font-family: Gill Sans, sans-serif;
  margin: 15px;
- padding: 15px
- z-index: 202
+ padding: 15px;
+ z-index: 202;
  transition: background-color 0.25s ease;
- transition: border-color 0.25s ease;
- transition: border-width 0.25s ease;
 }
 
 li:hover {
     background-color: #696969;
-    border-width: 10px;
-    border-color: #696969;
 }
 
 a:link
