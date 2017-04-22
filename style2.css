@@ -39,7 +39,6 @@ h3 {
     z-index: 200;
     width: 98.5%;
     min-height: 80px;
-    height: auto;
     position: fixed;
     background-color: black;
     filter: opacity(70%);
