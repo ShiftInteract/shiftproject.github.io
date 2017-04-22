@@ -39,7 +39,8 @@ h3 {
     display:inline;
     z-index: 200;
     width: 98.5%;
-    height: 80px;
+    min-height: 80px;
+    height: auto;
     position: fixed;
     background-color: black;
     filter: opacity(70%);
