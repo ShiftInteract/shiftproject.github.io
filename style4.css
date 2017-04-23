@@ -45,10 +45,12 @@ h3 {
     background-color: black;
     filter: opacity(70%);
     margin-right: 8px;
+    margin-top: -3cm;
 }
 
 ul {
 margin-left: 3.5cm;
+margin-top: -2.1cm;
 }
 
 .bodybox {
