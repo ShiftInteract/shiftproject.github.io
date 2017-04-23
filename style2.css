@@ -43,7 +43,7 @@ h3 {
     background-color: black;
     filter: opacity(70%);
     padding-left: 0.3cm;
-    margin-top: -2.6cm;
+    margin-top: -2.7cm;
 }
 
 .bodybox {
@@ -54,7 +54,7 @@ h3 {
  margin-left: 65px;
  margin-right: 65px;
  margin-bottom: 65px;
- margin-top: 110px;
+ margin-top: 135px;
  padding: 12.5px;
  border-style: inset;
  border-width: 3px;
@@ -73,7 +73,7 @@ p {
 }
 
 ul {
-margin-top: -2.3cm;
+margin-top: -2.1cm;
 margin-left: 3cm;
 } 
 
